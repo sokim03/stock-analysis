@@ -15,6 +15,7 @@ in the year 2018. It may be challenging for Steve and his parents to
 continue investing in DQ when the returns seem across the board. 
 More data from previous and future years are needed to make a informed 
 decision. 
+
 ![2017yearlyreturns](https://user-images.githubusercontent.com/96352427/149640327-b161d3f8-3ee7-44eb-ab79-c2854a66a7e8.PNG)
 ![2018yearlyreturns](https://user-images.githubusercontent.com/96352427/149640370-1541ac06-1b1b-46b0-8496-16f9bbb3cef1.PNG)
 
@@ -22,6 +23,7 @@ The difference of execution times from the original script
 and the refactored script was approximately 0.7 seconds apart.
 The refactored script ran about 10-12 times faster than the 
 original script. 
+
 ![AnalysisforAllStocks-2017](https://user-images.githubusercontent.com/96352427/149640387-bb489898-f8ab-4df3-be54-ccc122e80aeb.PNG)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/96352427/149640412-29efb342-1c17-4393-b7c1-673345fda12b.PNG)
 
@@ -31,6 +33,7 @@ original script.
 The main difference in code to execute these different 
 times was by looping through the data once instead of multiple
 times as we did in the original code.
+
 ![refactoredcode](https://user-images.githubusercontent.com/96352427/149641237-3327ce03-6191-4fd7-9f29-ef4eade57817.PNG)
 
 #### Summary:
