@@ -1,10 +1,10 @@
 # Stock-analysis
 Analyzing stock data using VBA
 
-### Overview of Project: 
+#### Overview of Project: 
 Helping Steve and his parents find the best stock option besides DQ, by analyzing yearly returns for multiple stock choices.
 
-### Results:
+#### Results:
 The overall stock performance in 2017 showed positive yearly returns
 with the exception of TERP stock. Although the total daily volume
 for DQ stock was the lowest out of all stock options, it gained the 
@@ -33,7 +33,7 @@ times was by looping through the data once instead of multiple
 times as we did in the original code.
 ![refactoredcode](https://user-images.githubusercontent.com/96352427/149641237-3327ce03-6191-4fd7-9f29-ef4eade57817.PNG)
 
-### Summary:
+#### Summary:
 The advantages of refactoring code is that it condenses 
 the script to make it more readable for users, shortens time
 for the future when coding large sets of data, and improves 
